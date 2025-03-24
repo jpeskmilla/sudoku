@@ -3,9 +3,11 @@ This is the second FPOE mini-proyect, which consist of making a 6x6 Sudoku game 
 
 ## Authors Data:
 **Name:** Juan Pablo Escamilla
+
 **Student Code:** 2420580-2724
 
 **Name:** Nicolle Andrea Paz.
+
 **Student Code:** 2419714-2724 
 
 **Submission Date:** April 11th, 2025.
